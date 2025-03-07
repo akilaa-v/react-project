@@ -1,0 +1,71 @@
+.breadcrumb {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.breadcrumb .home-page {
+    text-decoration: none;
+    color: #677A90;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.breadcrumb-name {
+    color: #29313A;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.album-name {
+    height: 52px;
+    background: var(--white);
+    padding: 20px 0 0 12px;
+    color: #29313A;
+    margin-bottom: 24px;
+}
+
+.album-details {
+    padding: 0 24px;
+}
+
+.album-table {
+    display: grid;
+    grid-template-columns: 3fr 3fr 1.5fr 1.5fr;
+    width: 100%;
+    margin: auto;
+    background: var(--white);
+    border-radius: 10px;
+    color: #4b4848;
+}
+
+.album-cell {
+    padding: 18px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+}
+
+.album-meta {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    background: var(--white);
+    border-radius: 8px;
+    font-size: 10px;
+    margin-bottom: 24px;
+    color: #4b4848;
+}
+
+.album-meta .grid-header {
+    border-bottom: none;
+    padding: 8px 18px 8px 18px;
+    color: #2D3540;
+    font-size: 12px;
+}
+
+.album-meta .grid-cell {
+    padding: 0 18px 8px 18px;
+    color: #2D3540;
+    font-size: 14px;
+}

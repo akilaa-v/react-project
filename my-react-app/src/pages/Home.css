@@ -1,0 +1,12 @@
+.overview {
+    background: var(--white);
+    padding: 20px;
+    color: #29313A;
+}
+
+.contents {
+    border-radius: 10px;
+    border: 1px solid var(--grey);
+    margin: 16px;
+    background: var(--white);
+}

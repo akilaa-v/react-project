@@ -1,0 +1,160 @@
+{
+	"collections": [
+		{
+			"id": "101",
+			"name": "The Odyssey",
+			"artist": "Jorge Rivera-Herrans",
+			"type": "EP",
+			"songCount": 2,
+			"durationInSeconds": 1200,
+			"sizeInBytes": 52428800,
+			"releasedOn": "2024-07-15T18:02:11Z",
+			"songs": [
+				{
+					"title": "Call to Adventure",
+					"durationInSeconds": 180,
+					"sizeInBytes": 10485760,
+					"performers": ["Jorge Rivera-Herrans"]
+				},
+        {
+					"title": "All Too Well (10 Minute Version)",
+					"durationInSeconds": 600,
+					"sizeInBytes": 41943040,
+					"performers": ["Taylor Swift"]
+				}
+			]
+		},
+		{
+			"id": "102",
+			"name": "Red (Taylor’s Version)",
+			"artist": "Taylor Swift",
+			"type": "Album",
+			"songCount": 3,
+			"durationInSeconds": 4200,
+			"sizeInBytes": 262144000,
+			"releasedOn": "2021-11-12T21:48:52Z",
+			"songs": [
+				{
+					"title": "All Too Well (10 Minute Version)",
+					"durationInSeconds": 600,
+					"sizeInBytes": 41943040,
+					"performers": ["Taylor Swift"]
+				},
+        {
+					"title": "Story of My Life",
+					"durationInSeconds": 250,
+					"sizeInBytes": 20971520,
+					"performers": ["One Direction"]
+				},
+        {
+					"title": "Call to Adventure",
+					"durationInSeconds": 180,
+					"sizeInBytes": 10485760,
+					"performers": ["Jorge Rivera-Herrans"]
+				}
+			]
+		},
+		{
+			"id": "103",
+			"name": "Midnight Memories",
+			"artist": "One Direction",
+			"type": "Album",
+			"songCount": 1,
+			"durationInSeconds": 3500,
+			"sizeInBytes": 209715200,
+			"releasedOn": "2013-11-25T10:37:40Z",
+			"songs": [
+				{
+					"title": "Story of My Life",
+					"durationInSeconds": 250,
+					"sizeInBytes": 20971520,
+					"performers": ["One Direction"]
+				}
+			]
+		},
+		{
+			"id": "104",
+			"name": "Blonde",
+			"artist": "Frank Ocean",
+			"type": "Album",
+			"songCount": 3,
+			"durationInSeconds": 3900,
+			"sizeInBytes": 241172480,
+			"releasedOn": "2016-08-20T07:30:22Z",
+			"songs": [
+				{
+					"title": "Nikes",
+					"durationInSeconds": 312,
+					"sizeInBytes": 20971520,
+					"performers": ["Frank Ocean"]
+				},
+        {
+					"title": "Nikes",
+					"durationInSeconds": 312,
+					"sizeInBytes": 20971520,
+					"performers": ["Frank Ocean"]
+				},
+        {
+					"title": "Nikes",
+					"durationInSeconds": 312,
+					"sizeInBytes": 20971520,
+					"performers": ["Frank Ocean"]
+				}
+			]
+		},
+		{
+			"id": "105",
+			"name": "Golden Hour",
+			"artist": "Kacey Musgraves",
+			"type": "Single",
+			"songCount": 1,
+			"durationInSeconds": 3200,
+			"sizeInBytes": 201326592,
+			"releasedOn": "2018-03-30T14:25:33Z",
+			"songs": [
+				{
+					"title": "Slow Burn",
+					"durationInSeconds": 244,
+					"sizeInBytes": 16777216,
+					"performers": ["Kacey Musgraves"]
+				}
+			]
+		},
+		{
+			"id": "106",
+			"name": "Future Nostalgia",
+			"artist": "Dua Lipa",
+			"type": "Album",
+			"songCount": 1,
+			"durationInSeconds": 2600,
+			"sizeInBytes": 146800640,
+			"releasedOn": "2020-03-27T08:15:47Z",
+			"songs": [
+				{
+					"title": "Don't Start Now",
+					"durationInSeconds": 183,
+					"sizeInBytes": 20971520,
+					"performers": ["Dua Lipa"]
+				}
+			]
+		},
+		{
+			"id": "107",
+			"name": "MONTERO",
+			"artist": "Lil Nas X",
+			"type": "Single",
+			"songCount": 1,
+			"durationInSeconds": 3400,
+			"sizeInBytes": 180879360,
+			"releasedOn": "2021-09-17T17:42:59Z",
+			"songs": [
+				{
+					"title": "MONTERO (Call Me By Your Name)",
+					"durationInSeconds": 137,
+					"sizeInBytes": 15728640,
+					"performers": ["Lil Nas X"]
+				}
+			]
+		}
+	]
+}

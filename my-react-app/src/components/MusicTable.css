@@ -1,0 +1,58 @@
+.grid-table {
+  display: grid;
+  grid-template-columns: 3fr 1fr 1.5fr 1fr 1fr 1.5fr 1.5fr;
+  width: 100%;
+  margin: auto;
+  background: var(--white);
+  border-radius: 10px;
+}
+
+.grid-header {
+  font-weight: 500;
+  font-size: 14px;
+  color: #29313A;
+  padding: 20px;
+  border-bottom: 1px solid #C2CAD3;
+  text-align: left;
+}
+
+.name {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+}
+
+.collection-name {
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.artist {
+  margin-top: 6px;
+  color: #677A90;
+}
+
+.grid-cell {
+  padding: 18px;
+  border-bottom: 1px solid #E1E4E9;
+  text-align: left;
+  color: #29313A;
+  font-weight: 400;
+}
+
+.grid-cell:nth-last-child(-n+7) {
+  border-bottom: none;
+}
+
+.view-details {
+  color: #2753b8;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.eye-icon {
+  width: 18px;
+  height: 18px;
+}
